@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+.btn {
+  margin-left: 10px;
+  border-radius: 5px;
+  padding: 0px 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #9b0f60;
+  font-weight: 700;
+}
